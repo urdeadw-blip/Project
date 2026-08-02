@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tablet-specific layout adjustments.
+     On tablets (sw600dp+), we increase padding and icon sizes for a
+     more spacious error screen. The WebView itself is already responsive
+     since it fills the available space. -->
+<resources>
+    <dimen name="error_icon_size">128dp</dimen>
+    <dimen name="error_title_size">28sp</dimen>
+    <dimen name="error_subtitle_size">17sp</dimen>
+    <dimen name="error_padding">64dp</dimen>
+    <dimen name="splash_logo_size">160dp</dimen>
+    <dimen name="splash_title_size">36sp</dimen>
+</resources>

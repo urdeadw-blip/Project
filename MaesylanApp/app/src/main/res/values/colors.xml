@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette — extracted from the Maesylan website CSS tokens. -->
+    <color name="red_950">#1B0A0A</color>
+    <color name="red_900">#240E0E</color>
+    <color name="red_800">#2E1313</color>
+    <color name="red_700">#391717</color>
+    <color name="red_600">#481D1D</color>
+
+    <color name="mist">#7F9AA8</color>
+    <color name="mist_soft">#A9C6D4</color>
+
+    <color name="cream">#FAF6EE</color>
+    <color name="sand">#F2E9D9</color>
+    <color name="sand_dark">#E6D9C0</color>
+
+    <color name="cyan">#2AAAC6</color>
+    <color name="cyan_dark">#218AA2</color>
+    <color name="cyan_soft">#D3EEF6</color>
+
+    <color name="sky">#5EC9DF</color>
+
+    <color name="ink">#241A1A</color>
+    <color name="muted">#6D7279</color>
+    <color name="line">#E4D9C8</color>
+
+    <color name="white">#FFFDF7</color>
+
+    <!-- Aliases for Android system use -->
+    <color name="ic_launcher_background">#240E0E</color>
+</resources>

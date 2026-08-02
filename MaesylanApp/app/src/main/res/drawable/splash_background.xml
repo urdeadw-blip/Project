@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen background — matches the website's dark hero section. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/red_950" />
+    <item
+        android:width="80dp"
+        android:height="80dp"
+        android:drawable="@drawable/ic_splash_paw"
+        android:gravity="center" />
+</layer-list>
