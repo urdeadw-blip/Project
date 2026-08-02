@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maesylan</string>
+    <string name="splash_subtitle">Boarding Kennels</string>
+
+    <!-- Offline / error strings -->
+    <string name="error_title_offline">No internet connection</string>
+    <string name="error_subtitle_offline">We couldn\u2019t reach the Maesylan website. Please check your Wi\u2011Fi or mobile data and try again.</string>
+    <string name="error_title_generic">Something went wrong</string>
+    <string name="error_subtitle_generic">The page couldn\u2019t be loaded right now. Please pull down to refresh or tap the button below.</string>
+    <string name="error_retry">Try again</string>
+</resources>
